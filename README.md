@@ -2,7 +2,7 @@
 # Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
-# *VIEW THE CONSOLE FOR THE MULTISELECTION AND SINGLE SELECTION  
+<mark>see the console for the multiselection and single selection </mark>
 
 
 
